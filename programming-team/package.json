@@ -1,0 +1,24 @@
+{
+  "name": "programming-team",
+  "version": "0.0.0",
+  "description": "Contains all the packages I use for any Node.js program written for the FIU Programming Team.",
+  "main": "2019 - The Party's in Dolores's Driveway.js",
+  "author": "Sergio Pantoja",
+  "dependencies": {
+    "q": "~1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sergiopantoja/university"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sergiopantoja/university/issues"
+  },
+  "homepage": "https://github.com/sergiopantoja/university"
+}
